@@ -37,6 +37,7 @@ p {
 
 ::selection {
   background: #8347ff;
+	color: #fff;
 }
 
 a:hover {
